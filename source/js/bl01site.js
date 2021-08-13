@@ -1,3 +1,3 @@
 (function ($, window, document, undefined) {
-  $('h3').css('margin-left', '1rem');
+  // STARTING POINT
 })(jQuery, window, document);
