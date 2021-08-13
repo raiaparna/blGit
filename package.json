@@ -1,0 +1,17 @@
+{
+  "name": "blgit",
+  "version": "0.0.1",
+  "description": "Learning GIT & GITHUB",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "keywords": [
+    "learn",
+    "git",
+    "github"
+  ],
+  "author": "Aparna Rai",
+  "license": "ISC"
+}
