@@ -17,7 +17,7 @@ lerna-debug.log*
 .fuse*
 scripts/
 styles/
-*lock.json
+*.json
 .gitignore
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
